@@ -1,4 +1,4 @@
 This is my first Git test.
 This change is developed in Feat1.
 This change is developed in Feat2.
-This change is developed in Feat3..
+This change is developed in Feat3.
